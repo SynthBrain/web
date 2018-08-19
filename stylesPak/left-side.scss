@@ -1,0 +1,36 @@
+.left-side {
+  position: relative;
+  height: 400px;
+  width: 450px;
+
+  display: inline-block;
+  vertical-align: top;
+
+  background-image: url(../img/singapore-night.jpeg);
+  background-size: cover; // contain
+  background-position: center center;
+  background-repeat: no-repeat;
+  /* background-attachment: fixed; */
+}
+
+.text-topic {
+  font-size: 30px;
+  margin-top: 10px;
+  margin-left: 10px;
+//   position: absolute;
+//   top: 10px;
+//   left: 10px;
+  color: white;
+}
+
+
+.text-topic-inner {
+  font-size: 24px;
+  margin-left: 10px;
+//   position: absolute;
+//   top: 40px;
+//   left: 10px;
+  color: white;
+}
+  
+  

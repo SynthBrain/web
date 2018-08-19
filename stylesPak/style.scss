@@ -1,0 +1,13 @@
+@import "reset.scss";
+
+body {
+  background: lightgray;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+@import "wrapper.scss";
+
+@import "left-side.scss";
+
+@import "right-side";
+

@@ -1,0 +1,77 @@
+.text-block {
+  margin-top: 15%;
+  font-size: 16px;
+  color: black;
+}
+
+.hyper {
+  font-size: 16px;
+  color: #0fd1d1;
+}
+
+.human-block {
+  position: absolute;
+  bottom: 10px;
+  height: 100px;
+  width: 100%;
+}
+
+.friends-count {
+  font-size: 16px;
+}
+
+.human-face, .human-count {
+  position: relative;
+  display: inline-block;
+  vertical-align: top;
+  height: 80px;
+}
+
+.human-face {
+  width: 70%;
+}
+
+.human-face-inner {
+  width: 33%;
+  height: 80px;
+  display: inline-block;
+  vertical-align: top;
+  background-image: url(../img/person-icon.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+
+.human-count {
+  width: 30%;
+  text-align: center;
+}
+
+.text-count {
+  position: relative;
+  top: 30px;
+  font-size: 17px;
+}
+
+.right-side {
+  position: relative;
+  height: 400px;
+  width: 310px;
+  margin-left: 40px;
+  display: inline-block;
+  vertical-align: top;
+}
+
+.text-topic-right {
+  font-size: 30px;
+  color: black;
+  margin-top: 10px;
+}
+
+.text-inner-right {
+  font-size: 18px;
+  color: black;
+  margin-top: 5px;
+}
+
+/*# sourceMappingURL=right-side.css.map */

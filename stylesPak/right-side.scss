@@ -1,0 +1,30 @@
+@import "text-block.scss";
+@import "human-block.scss";
+
+.right-side {
+  position: relative;
+  height: 400px;
+  width: 310px;
+
+  margin-left: 40px;
+
+  display: inline-block;
+  vertical-align: top;
+}
+
+.text-topic-right {
+//   position: relative;
+//   top: 10px;
+
+  font-size: 30px;
+  color: black;
+  margin-top: 10px;
+}
+
+.text-inner-right {
+//   position: relative;
+//   top: 10px;
+  font-size: 18px;
+  color: black;
+  margin-top: 5px;
+}

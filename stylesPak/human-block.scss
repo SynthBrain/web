@@ -1,0 +1,46 @@
+.human-block {
+    position: absolute;
+    bottom:  10px;
+  
+    height: 100px;
+    width: 100%;
+  }
+
+.friends-count {
+  font-size: 16px;
+}
+  
+.human-face, .human-count {
+  position: relative;
+  display: inline-block;
+  vertical-align: top;
+  height: 80px;
+}
+
+.human-face {
+  width: 70%;
+}
+
+.human-face-inner {
+  width: 33%;
+  height: 80px;
+  
+  display: inline-block;
+  vertical-align: top;
+
+  background-image: url(../img/person-icon.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+
+.human-count {
+  width: 30%;
+  text-align: center;
+}
+.text-count{
+  position: relative;
+  top: 30px;
+  font-size: 17px;
+//   line-height: 80px;
+}
